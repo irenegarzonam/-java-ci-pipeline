@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aeb26baf-3ee2-4327-968f-4d234f743005" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/-java-ci-pipeline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/-java-ci-pipeline.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-java-ci-pipeline/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-java-ci-pipeline/Calculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/-java-ci-pipeline/TestCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/-java-ci-pipeline/TestCalculadora.class" afterDir="false" />
-    </list>
+    <list default="true" id="aeb26baf-3ee2-4327-968f-4d234f743005" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631131477062</updated>
       <workItem from="1631131479297" duration="844000" />
-      <workItem from="1631133635970" duration="767000" />
+      <workItem from="1631133635970" duration="1098000" />
     </task>
     <servers />
   </component>
@@ -105,6 +99,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Calculadora$TestCalculadora_testSumar.ic" NAME="TestCalculadora.testSumar Coverage Results" MODIFIED="1631134419190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Calculadora$TestCalculadora.ic" NAME="TestCalculadora Coverage Results" MODIFIED="1631134019388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
